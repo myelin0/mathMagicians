@@ -6,7 +6,7 @@
     - Read a random quote.
 
 ## Screenshot
-![screenshot](mathmagicians2.herokuapp.png)
+![coming soon ...]()
 
 ## Built With
 
@@ -34,8 +34,7 @@
 
 ## Live Demo
 
-[View on Heroku](https://mathmagicians2.herokuapp.com/) <br/>
-[View on Netlify](https://math-magicians2.netlify.app/)
+[coming soon ...]()
 
 ## Getting Started
 
@@ -99,7 +98,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/myelin0/Math-Magicians/issues).
+Feel free to check the [issues page](https://github.com/myelin0/mathMagicians/issues).
 
 ## Show your support
 
