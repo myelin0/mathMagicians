@@ -6,7 +6,7 @@
     - Read a random quote.
 
 ## Screenshot
-![coming soon ...]()
+![screenshot](./screenshot.png)
 
 ## Built With
 
@@ -34,7 +34,8 @@
 
 ## Live Demo
 
-[coming soon ...]()
+[See it on Heroku](https://math-magicians3.herokuapp.com/Calculator) <br>
+[See it on Netlify](https://visionary-blini-59b327.netlify.app/Quotes)
 
 ## Getting Started
 
