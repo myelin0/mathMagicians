@@ -33,9 +33,7 @@
 - Understand the mechanism of lifting state up.
 
 ## Live Demo
-
-[See it on Heroku](https://math-magicians3.herokuapp.com/Calculator) <br>
-[See it on Netlify](https://visionary-blini-59b327.netlify.app/Quotes)
+[See it on Netlify](https://visionary-blini-59b327.netlify.app)
 
 ## Getting Started
 
